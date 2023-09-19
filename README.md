@@ -1,4 +1,4 @@
-# rakamin_homework_week6
+# rakamin_homework_week7
 ### `areaAndPerimeter.js`
 
 The `areaAndPerimeter.js` module contains the following functions:
